@@ -1,0 +1,6 @@
+Insights from the Sales Dashboard:
+
+1. West Region recorded the highest total sales, particularly strong in the second half of the year.
+2. Technology is the top-performing category, contributing the largest portion of overall revenue.
+3. December 2023 had the highest monthly sales, indicating strong year-end performance.
+4. South Region had lower total sales compared to West and East, suggesting a need for strategic focus.
